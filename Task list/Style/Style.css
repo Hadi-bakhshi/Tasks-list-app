@@ -1,0 +1,33 @@
+
+body{
+    font-family:  Helvetica,Arial, sans-serif;
+    background: linear-gradient(to left, #f857a6, #ff5858);
+}
+h5{
+    background: -webkit-linear-gradient(#4A569D, #DC2424);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#add-txt-title{
+    font-weight:300;
+    font-size: large;
+    background: -webkit-linear-gradient(#4A569D, #DC2424);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.btn-primary{
+    margin-top: 10px;
+}
+.list-group{
+    margin-top: 5px;
+}
+.list-group-item{
+    margin-left: 2rem;
+
+}
+.fas{
+    /* margin-left:80% ; */
+    color: brown;
+}
